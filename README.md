@@ -1,27 +1,18 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="25" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="25" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="25" alt="discord logo"  />
-</div>
+<h1 data-importer="text" align="center">Hola, me presento👋</h1>
 
 ###
 
-<h1 data-importer="text" align="center">Hola, me presento 👋</h1>
+<h3 data-importer="text" align="left">👩‍💻 Sobre mi</h3>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻 Este soy yo</h3>
-
-###
-
-<p data-importer="text" align="left"><br><br>Aspirante a **Analista de Datos**, interesado en transformar datos en decisiones y automatizar procesos para generar eficiencia.<br><br>## En qué trabajo<br><br>- Análisis y visualización de datos<br>- Automatización de reportes y procesos repetitivos<br>- Limpieza, transformación y validación de datos<br>- Creación de dashboards para apoyar decisiones<br><br>## Herramientas que estoy desarrollando<br><br>`Excel` · `SQL` · `Python` · `Power BI` · `Pandas` · `Git` · `Automatización`<br><br>## Proyectos destacados<br><br>- 📊 **Dashboard de ventas** — análisis de indicadores, metas y tendencias.<br>- ⚙️ **Automatización de reportes** — consolidación y limpieza automática de archivos.<br>- 🔎 **Análisis de comportamiento** — exploración de datos para encontrar patrones relevantes.<br><br>## Encuéntrame<br><br>- Portafolio: https://joseperiche.github.io<br>- LinkedIn: agrega aquí tu enlace<br>- Correo: agrega aquí tu correo profesional</p>
+<p data-importer="text" align="left"># Hola, soy José Periche Ortiz 👋<br><br>Aspirante a **Analista de Datos**, interesado en transformar datos en decisiones y automatizar procesos para generar eficiencia.<br><br>## En qué trabajo<br><br>- Análisis y visualización de datos<br>- Automatización de reportes y procesos repetitivos<br>- Limpieza, transformación y validación de datos<br>- Creación de dashboards para apoyar decisiones<br><br>## Herramientas que estoy desarrollando<br><br>`Excel` · `SQL` · `Python` · `Power BI` · `Pandas` · `Git` · `Automatización`<br><br>## Proyectos destacados<br><br>- 📊 **Dashboard de ventas** — análisis de indicadores, metas y tendencias.<br>- ⚙️ **Automatización de reportes** — consolidación y limpieza automática de archivos.<br>- 🔎 **Análisis de comportamiento** — exploración de datos para encontrar patrones relevantes.<br><br>## Encuéntrame<br><br>- Portafolio: https://joseperiche.github.io<br>- LinkedIn: www.linkedin.com/in/jose-periche-ortiz<br>- Correo: joseluisperiche@mail.com</p>
 
 ###
 
@@ -49,15 +40,58 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<br clear="both">
+
+<h3 data-importer="text" align="center">🔥   My Stats :</h3>
 
 ###
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h3 data-importer="text" align="center">Contáctate conmigo!</h3>
+
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="25" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="25" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="25" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="25" alt="discord logo"  />
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<div data-importer="activities" align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
